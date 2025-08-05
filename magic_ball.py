@@ -21,4 +21,9 @@ while flag:
         break
 
 print('Возвращайся, если возникнут проблемы')
-print('')
+print(
+    ''
+    )
+print(
+    ''
+    )
